@@ -8,7 +8,6 @@ from sklearn.impute import SimpleImputer
 
 train = pd.read_csv('tcdml1920-rec-click-pred--training.csv')
 test = pd.read_csv("tcdml1920-rec-click-pred--test.csv")
-# TODO:need to clean test
 
 # Myvolts dataset
 train_myVolts = train[train['organization_id'] == 4]
@@ -24,7 +23,7 @@ test_theBlog = test[test['organization_id'] == 8]
 train_myVolts[(train_myVolts['query_char_count']=='\\N') & (train_myVolts['set_clicked']==1)].describe()
 
 y_col = ['set_clicked']
-#rec_processing_time if it is too large the user may close the page and leave. This only removes 113 records.
+# rec_processing_time if it is too large the user may close the page and leave. This only removes 113 records.
 train_myVolts = train_myVolts[train_myVolts['rec_processing_time']<9.2]
 
 # import pandas_profiling 
