@@ -370,7 +370,7 @@ dfX=pd.DataFrame()
 dfX['recommendation_set_id'] = Test_JabRef_df['recommendation_set_id']
 dfX['set_clicked'] = y_pred_read
 
-df2.to_csv('JabRefPrediction.csv',index=False)
+dfX.to_csv('JabRefPrediction.csv',index=False)
 
 #predict_tests = pd.read_csv("tcdml1920-rec-click-pred--test.csv")
 #predict_tests['set_clicked'] = pd.DataFrame(y_pred_read).iloc[:,-1]
