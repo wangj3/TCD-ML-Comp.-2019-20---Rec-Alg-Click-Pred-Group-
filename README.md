@@ -1,5 +1,19 @@
 # TCD-ML-Comp.-2019-20---Rec-Alg-Click-Pred-Group-
-Predict whether a set of delivered recommendations will be clicked or not.
+Predict whether a set of delivered recommendations will be clicked or not sourced from three different companies who need ML.
+
+Group:
+Jiachun Wang 
+Tanmay Bagla
+Himanshu Gupta
+
+Results:
+https://www.kaggle.com/c/tcd-ml-comp-201920-rec-alg-click-pred-group/leaderboard
+
+Rank Top 1st for first batch of data - kaggle public leader board 
+Rank Top 2nd for entire data set - kaggle private leader board
+Final score:91%
+
+With other courseworks, competitions and a final exam, I utimately achieved Distincation for ML course.
 
 # My Volts
 @Author Jiachuan Wang - Team 29
