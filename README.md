@@ -2,17 +2,17 @@
 Predict whether a set of delivered recommendations will be clicked or not sourced from three different companies who need ML.
 
 Group:
-Jiachun Wang 
-Tanmay Bagla
-Himanshu Gupta
+- Jiachun Wang 
+- Tanmay Bagla
+- Himanshu Gupta
 
 Results:
 https://www.kaggle.com/c/tcd-ml-comp-201920-rec-alg-click-pred-group/leaderboard
 ![Image of Kaggle Competition](https://github.com/wangj3/TCD-ML-Comp.-2019-20---Rec-Alg-Click-Pred-Group-/blob/master/2020-01-29%2011_50_03-TCD%20ML%20Comp.%202019_20%20-%20Rec%20Alg%20Click%20Pred%20(Group)%20_%20Kaggle.png)
-Around 34 teams joined competition-
-Rank Top 1st for first batch of data - kaggle public leader board 
-Rank Top 2nd for entire data set - kaggle private leader board
-Final score:91%
+Around 34 teams joined competition.
+- Rank Top 1st for first batch of data - kaggle public leader board 
+- Rank Top 2nd for entire data set - kaggle private leader board
+- Final score:91%
 
 With other courseworks, competitions and a final exam, I utimately achieved Distincation for ML course.
 
