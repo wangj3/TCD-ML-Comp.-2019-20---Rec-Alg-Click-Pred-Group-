@@ -8,7 +8,7 @@ Himanshu Gupta
 
 Results:
 https://www.kaggle.com/c/tcd-ml-comp-201920-rec-alg-click-pred-group/leaderboard
-
+![Image of Kaggle](https://octodex.github.com/images/?)
 Rank Top 1st for first batch of data - kaggle public leader board 
 Rank Top 2nd for entire data set - kaggle private leader board
 Final score:91%
