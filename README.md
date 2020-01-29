@@ -1,5 +1,8 @@
 # TCD-ML-Comp.-2019-20---Rec-Alg-Click-Pred-Group-
-Predict whether a set of delivered recommendations will be clicked or not.
+Predict whether a set of delivered recommendations will be clicked or not from three sources data in real life companies.
+Rank Top 1st for the first test data - public kaggle board
+Rank Top 2nd for the entire data set - private kaggle board
+Final score: 89%
 
 # My Volts
 @Author Jiachuan Wang - Team 29
